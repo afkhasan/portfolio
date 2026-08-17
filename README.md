@@ -18,3 +18,48 @@ Data Science student developing practical experience in data analysis, visualiza
 ## Software & Tools
 
 MySQL | Tableau | Microsoft Excel | RStudio | GitHub
+
+## Education
+
+**Master of Science in Data Science**  
+Rochester Institute of Technology | Rochester, NY  
+- **Relevant Coursework:** Data Analytics, Data Visualization, Statistical Analysis, Database Foundations, Time Series Analysis and Forecasting 
+
+**Bachelor's Degree in Human Biology**  
+Hunter College CUNY | Manhattan, NY  
+- **Relevant Coursework:** Lab Fundamentals, Research Methods, Economics, Statistics, Chemistry, Physics 
+
+## Work Experience
+
+### Store Manager
+**Ideal Discount Store** | Brooklyn, NY  
+Jan 2023 – June 2026
+
+- Oversaw daily operations by data logging for inventory management 
+- Handled customer service issues with a focus on resolution and satisfaction 
+- Trained and supervised team members, fostering a collaborative environment 
+
+### Physical Therapist Aide 
+**Crescent Physical Therapy P.C.** | Queens, NY  
+May 2022 – June 2022
+
+- Recorded and monitored patient data to support accurate treatment tracking 
+- Assisted physical therapist in improving patient mobility and care efficiency 
+- Prepared treatment areas and equipment to ensure safety
+- Communicated effectively with patients and staff to coordinate care and improve treatment experiences
+- Logged and updated patient data
+
+## Projects
+
+### Superstore Profitability Analysis
+**Personal Project | Excel & Tableau | 2026**
+
+- **Objective:** Evaluated retail sales data to identify profitability trends, loss-making product areas, regional performance, and factors affecting profit.
+- **Analysis:** Validated and prepared transactional data in Excel, engineered additional fields including Profit Margin and Loss Flag, and performed exploratory analysis in Tableau.
+- **Key Insights:** Identified the West as the strongest-performing region, found Tables, Bookcases, and Supplies to be loss-making sub-categories, and observed that higher discounting was associated with lower profitability among underperforming products.
+- **Deliverable:** Developed an executive Tableau dashboard summarizing business KPIs, regional performance, product profitability, discounting patterns, and performance over time.
+- **Project Link:** [View Full Project](https://github.com/afkhasan/superstore-profitability-analysis)
+
+
+
+
