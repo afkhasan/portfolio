@@ -51,6 +51,15 @@ May 2022 – June 2022
 
 ## Projects
 
+### Retail Sales Analytics & Forecasting System
+**Personal Project | MySQL • Tableau • R | 2025**
+
+- **Objective:** Developed an end-to-end retail analytics system to analyze sales performance and forecast future retail sales.
+- **Data Engineering:** Designed a star-schema MySQL database using 300K+ warehouse and retail sales records and developed SQL queries to analyze sales trends, supplier performance, product categories, and seasonality.
+- **Visualization:** Created an interactive Tableau dashboard featuring KPI tracking, trend analysis, supplier comparisons, category performance, and interactive filtering.
+- **Forecasting:** Developed a time-series forecasting model in R to generate 36-month retail sales forecasts and evaluated model performance using residual diagnostics.
+- **Project Link:** [View Full Project](https://github.com/afkhasan/retail-analytics-insight-system)
+
 ### Superstore Profitability Analysis
 **Personal Project | Excel & Tableau | 2026**
 
