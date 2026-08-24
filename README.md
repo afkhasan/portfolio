@@ -51,7 +51,7 @@ May 2022 – June 2022
 
 ## Projects
 
-### Retail Sales Analytics & Forecasting System
+### Retail Analytics Insight System
 **Personal Project | MySQL • Tableau • R | 2025**
 
 - **Objective:** Developed an end-to-end retail analytics system to analyze sales performance and forecast future retail sales.
