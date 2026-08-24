@@ -69,6 +69,14 @@ May 2022 – June 2022
 - **Deliverable:** Developed an executive Tableau dashboard summarizing business KPIs, regional performance, product profitability, discounting patterns, and performance over time.
 - **Project Link:** [View Full Project](https://github.com/afkhasan/superstore-profitability-analysis)
 
+### PlayStation Sentiment Analysis
+**Personal Project | R • Tableau | 2025**
+
+- **Objective:** Analyzed unstructured social media data to explore public sentiment and discussion patterns surrounding PlayStation.
+- **Analysis:** Collected Reddit comments using R and applied two lexicon-based sentiment methods, Syuzhet and AFINN, to compare sentiment patterns across the dataset.
+- **Key Insights:** Found that overall sentiment was concentrated around neutral values, observed similar trends across both sentiment methods, and identified sentiment fluctuations around periods of PlayStation-related announcements and events.
+- **Visualization:** Used Tableau to explore sentiment distributions, changes in sentiment over time, and the relationship between sentiment and Reddit engagement.
+- **Project Link:** [View Full Project](https://github.com/afkhasan/playstation-sentiment-analysis)
 
 
 
