@@ -98,4 +98,42 @@ h2 {
     color: #6b7280;
 }
 
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 18px;
+    margin-top: 25px;
+}
 
+.skill-group {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 6px;
+}
+
+.skill-group h3 {
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-size: 16px;
+    color: #1f2937;
+}
+
+.skill-group p {
+    margin: 0;
+    color: #4b5563;
+}
+
+@media (max-width: 700px) {
+    .skills-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .hero h1 {
+        font-size: 40px;
+    }
+
+    nav a {
+        display: inline-block;
+        margin: 6px 8px;
+    }
+}
